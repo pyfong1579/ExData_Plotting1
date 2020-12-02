@@ -1,3 +1,13 @@
+##NOTES for submitted project:
+1. Data_Load.R :Data downloading , selecting and cleaning script
+2. plot1.R:     ploting script for histogram plot1
+3. plot2.R      plotting script for line graph plot2
+4. plot3.R      plotting script for line graph plot3
+5. plot4.R      plotting script for composite plot4 - reuses plot2.R and plot3.R
+
+Sub-directory figure is original from RDPeng
+
+
 ## Introduction
 
 This assignment uses data from
